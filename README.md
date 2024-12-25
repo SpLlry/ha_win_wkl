@@ -6,7 +6,8 @@ Home Assistant局域网唤醒电脑,目前仅支持开机
 
 手动下载自定义插件的代码，并将其解压缩到 Home Assistant 配置目录的 "custom_components" 文件夹中。请注意，如果 "custom_components" 文件夹不存在，则需要手动创建它。
 
-![image](https://github.com/user-attachments/assets/cf6986de-efb3-4154-b993-171dc7513645)
+![image](https://github.com/user-attachments/assets/a1254ac0-8dd9-41f8-9cab-2595827cd074)
+
 
 
 例如，如果您要安装的插件名为 "ha_win_wol"，则您应该将其解压缩到以下路径：/custom_components/ha_win_wol/。
@@ -20,4 +21,6 @@ Home Assistant局域网唤醒电脑,目前仅支持开机
 
 
 在弹出窗口中选择您要安装的插件，并按照提示进行设置既可。
+![image](https://github.com/user-attachments/assets/40809d2b-f68b-4edd-bc0a-45624ad8f02d)
+![image](https://github.com/user-attachments/assets/57f16e38-8d76-496d-b7cd-d8d4dbf70b75)
 
