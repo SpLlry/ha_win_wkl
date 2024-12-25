@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Home Assistant Windows电脑网络唤醒插件",
+                "data": {
+                    "ip": "IP地址",
+                    "name": "名称",
+                    "mac": "MAC地址",
+                    "account": "登录账号(用以开机,暂未实现)"
+                }
+            }
+        },
+        "error": {},
+        "abort": {
+            "single_instance_allowed": "仅允许单个配置."
+        }
+    }
+}
