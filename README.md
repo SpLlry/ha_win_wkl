@@ -1,2 +1,23 @@
 # ha_win_wkl
 Home Assistant局域网唤醒电脑,目前仅支持开机
+
+
+**插件安装方法：**
+
+手动下载自定义插件的代码，并将其解压缩到 Home Assistant 配置目录的 "custom_components" 文件夹中。请注意，如果 "custom_components" 文件夹不存在，则需要手动创建它。
+
+![image](https://github.com/user-attachments/assets/cf6986de-efb3-4154-b993-171dc7513645)
+
+
+例如，如果您要安装的插件名为 "ha_win_wol"，则您应该将其解压缩到以下路径：/custom_components/ha_win_wol/。
+然后重新启动 Home Assistant，以使新插件加载和生效。
+![image](https://github.com/user-attachments/assets/15b1c496-c342-40ad-a394-40ee5b7629f4)
+
+接下来到Home Assistant的web界面，设置-设备与服务中去添加集成
+![image](https://github.com/user-attachments/assets/82857d83-71d1-4032-93d7-4de227ef0fe1)
+![image](https://github.com/user-attachments/assets/d5796289-e382-4988-aeed-141f5de6751f)
+
+
+
+在弹出窗口中选择您要安装的插件，并按照提示进行设置既可。
+
