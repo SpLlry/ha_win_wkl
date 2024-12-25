@@ -9,6 +9,7 @@ Home Assistant局域网唤醒电脑,目前仅支持开机
 ![image](https://github.com/user-attachments/assets/a1254ac0-8dd9-41f8-9cab-2595827cd074)
 
 如图
+
 ![image](https://github.com/user-attachments/assets/d8617e2b-7050-47f2-a418-c3467cb12f26)
 
 
