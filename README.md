@@ -24,3 +24,5 @@ Home Assistant局域网唤醒电脑,目前仅支持开机
 ![image](https://github.com/user-attachments/assets/40809d2b-f68b-4edd-bc0a-45624ad8f02d)
 ![image](https://github.com/user-attachments/assets/57f16e38-8d76-496d-b7cd-d8d4dbf70b75)
 
+这样就可以在概览中看到电脑状态了
+![image](https://github.com/user-attachments/assets/b56d667d-f590-4a8d-90ec-2c75ce4569a9)
