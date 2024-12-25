@@ -10,7 +10,7 @@ Home Assistant局域网唤醒电脑,目前仅支持开机
 
 
 
-例如，如果您要安装的插件名为 "ha_win_wol"，则您应该将其解压缩到以下路径：/custom_components/ha_win_wol/。
+例如，如果您要安装的插件名为 "ha_win_wkl"，则您应该将其解压缩到以下路径：/custom_components/ha_win_wkl/。
 然后重新启动 Home Assistant，以使新插件加载和生效。
 ![image](https://github.com/user-attachments/assets/15b1c496-c342-40ad-a394-40ee5b7629f4)
 
