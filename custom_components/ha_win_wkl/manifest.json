@@ -1,18 +1,19 @@
 {
-    "domain": "ha_win_wkl",
-    "name": "ha_win_wkl",
-    "documentation": "https://github.com/SpLlry/ha_win_wkl/wiki",
-    "issue_tracker": "https://github.com/SpLlry/ha_win_wkl/issues",
-    "dependencies": [],
-    "codeowners": [],
-    "requirements": [],
-    "version": "0.0.1",
-    "config_flow": true,
-    "translations": [],
-    "release_notes": "https://github.com/SpLlry/ha_win_wkl/releases",
-    "hacs": {
-        "version": "1.1.3"
-    },
-    "image": "https://github.com/SpLlry/ha_win_wkl/blob/main/icon/ha_win_wkl.png"
+  "domain": "ha_win_wkl",
+  "name": "ha_win_wkl",
+  "documentation": "https://github.com/SpLlry/ha_win_wkl/wiki",
+  "issue_tracker": "https://github.com/SpLlry/ha_win_wkl/issues",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "0.0.1",
+  "config_flow": true,
+  "translations": [],
+  "release_notes": "https://github.com/SpLlry/ha_win_wkl/releases",
+  "hacs": {
+    "version": "1.1.3"
+  },
+  "image": "https://raw.gitmirror.com/SpLlry/ha_win_wkl/refs/heads/main/icons/ha_win_wkl.png",
+  "icon": "/icons/ha_win_wkl.png"
 }
   

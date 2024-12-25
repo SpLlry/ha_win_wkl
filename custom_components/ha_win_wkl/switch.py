@@ -53,6 +53,7 @@ class MyCustomSwitch(SwitchEntity):
 
     @property
     def is_on(self):
+        # 获取实体状态
         """Return true if the switch is on."""
         # state = ping_ip(self._ip)
         self._state = ping_ip(self._ip)

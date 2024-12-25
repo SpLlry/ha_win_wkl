@@ -5,7 +5,7 @@ import subprocess
 
 
 def ping_ip(ip):
-    ip = "192.168.0.103"
+    # ip = "192.168.0.103"
     current_os = platform.system()
     params = "-n"
     if current_os == "Windows":
