@@ -1,4 +1,4 @@
-DOMAIN = "ha_win_wol"
+DOMAIN = "ha_win_wkl"
 
 COORDINATOR = "coordinator"
 CONF_UPDATE_INTERVAL = "update_interval_seconds"
